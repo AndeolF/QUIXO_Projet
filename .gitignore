@@ -2,6 +2,6 @@ agent_qlearning_save/
 
 graph/
 
-*Rapport_de_projet.odt
+*.odt
 
 models/
