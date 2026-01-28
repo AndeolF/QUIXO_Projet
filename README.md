@@ -1,6 +1,6 @@
 # Quixo Project
 
-My report on this project is available in the “Project report” section and contains details of all the choices I made to achieve my goal: an AI capable of beating a human every time.
+This project was a group project during a project at CentraleSupélec. This repository contains only my part of the project. The part of the report concerning my part is available in the “Rapport de projet.pdf” file and contains details on all the choices I made to achieve my goal: an AI capable of beating a human every time.
 
 ## Description
 
@@ -35,4 +35,4 @@ This repository includes different Q-learning methods to develop a strong AI cap
 
 - The `Deep_q_learning.py` file contains the game in two parts (graphics and logic), with a deep Q-learning agent class (also a linear model class from PyTorch) along with the necessary functions to train the agent.
 
-- The `Deep_q_learning_MCTS.py` file contains the game, also split into two parts.
+- The `Deep_q_learning_MCTS.py` file contains the game, also split into two parts. This is the final version of the Deep Q Learning algorithm implemented with an MCTS tree search. 
